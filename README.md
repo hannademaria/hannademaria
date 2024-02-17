@@ -2,8 +2,9 @@
 
 🇮🇹 Italy, 📍 Genoa
 
-- 👨🏻‍🎓[Electronics Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor degree
-- 📚[Computer Engineering](https://corsi.unige.it/corsi/11160/) Master degree (course: Artifical Intelligence and Human-Centered Computing)
+👨🏻‍🎓[Electronics Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor degree
+
+📚[Computer Engineering](https://corsi.unige.it/corsi/11160/) Master degree (course: Artifical Intelligence and Human-Centered Computing)
 
 
 
