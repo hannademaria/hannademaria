@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hanna De Maria
+
+🇮🇹 Italy, 📍 Genoa
+
+- 👨🏻‍🎓[Electronics Engineering and Information Technology](https://corsi.unige.it/corsi/9273) Bachelor degree
+- 📚[Computer Engineering](https://corsi.unige.it/corsi/11160/) Master degree (course: Artifical Intelligence and Human-Centered Computing)
+
+
+
 
 <!--
 **hannademaria/hannademaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
